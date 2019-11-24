@@ -9,7 +9,7 @@ published : true
 # Doc: https://gitpitch.com/docs/themes/default
 #
 theme : template
-theme-background : [ "linear-gradient(0deg, white 80%, #1F6ED4 20%)" ]
+theme-background : [ "linear-gradient(0deg, white 90%, #1F6ED4 10%)" ]
 theme-headline   : [ "Montserrat", "#333", "none" ]
 theme-byline     : [ "Montserrat", "#111111", "none" ]
 theme-text       : [ "Raleway", "#1C1C1C", "none" ]
