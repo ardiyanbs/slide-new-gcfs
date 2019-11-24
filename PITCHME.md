@@ -4,5 +4,5 @@
 
 ---
 @snap[midpoint span-100]
-[Old GCFS](assets/img/old_gcfs.png)
+![Old GCFS](assets/img/old_gcfs.png)
 @snapend
