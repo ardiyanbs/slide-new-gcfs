@@ -3,6 +3,6 @@
 @snapend
 
 ---
-@snap[midpoint span-40]
+@snap[midpoint span-100]
 [Old GCFS](assets/img/old_gcfs.png)
 @snapend
