@@ -1,19 +1,8 @@
-@title[Slide Design Templates]
-
-@snap[west span-60]
-## GitPitch
-#### Quickstart Slide Designs
+@snap[midpoint span-100]
+## GCFS
 @snapend
 
-@snap[east span-25 h4-white text-center]
-#### [See the Templates Guide @fa[external-link]](https://gitpitch.com/docs/the-template)
+---
+@snap[midpoint span-40]
+[Old GCFS](assets/img/old_gcfs.png)
 @snapend
-
-@snap[south-west span-50 text-gray text-smallcaps text-06]
-Powered by markdown snippets.
-@snapend
-
-@snap[south-east span-50 text-white text-smallcaps text-06]
-As simple as copy-n-paste.
-@snapend
-

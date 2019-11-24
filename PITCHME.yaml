@@ -31,12 +31,4 @@ logo-position : top-right
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch Slide Design Templates"
-
-#
-# Twitter Card Settings
-# Doc: https://gitpitch.com/docs/settings/twitter-card
-#
-title : "GitPitch Slide Design Templates"
-description : "A collection of markdown snippets used to create high-utility slide designs within GitPitch slide decks."
-# thumbnail : assets/img/thumb.png
+footnote : "Revamp GCFS"
