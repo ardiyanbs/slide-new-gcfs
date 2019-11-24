@@ -1,2 +1,4 @@
 #title-footer { display: none !important; }
 div.progress  { display: none !important; }
+
+.box-step { background: rgba(0,212,255,1); }
