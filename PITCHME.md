@@ -11,3 +11,7 @@
 @snap[south]
 ![Old GCFS](assets/img/new_gcfs.png)
 @snapend
+
+---
+#### ORDER FLOW
+![Order Flow](assets/img/order_flow.png)
